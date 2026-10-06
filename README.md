@@ -2,13 +2,13 @@
 
 Contact Info:
 
-Scheduling: Maddison Kallmeyer - 3463300736
+- Scheduling: Maddison Kallmeyer - (346)330-0736
 
-Technician: Clint Kallmeyer - 3462845140
+- Technician: Clint Kallmeyer - (346)284-5140
 
-Email: kallmeyershomeservices@gmail.com
+- Email: kallmeyershomeservices@gmail.com
 
-Hours: Monday- Friday 8am-6pm
+- Hours: Monday- Friday 8am-6pm
   
 Kallmeyer's Home Services is a locally run Home Renovation and Repair business located in Spring Tx. Providing service for the entire North Houston Area since 2017. We offer a variety of Renovation and Handyman services, if you don't see what you need listed give us a call to inquire!
   
@@ -20,6 +20,7 @@ Kallmeyer's Home Services is a locally run Home Renovation and Repair business l
 -  Painting
 -  Fences
 -  Decks
+-  Gutters
 -  Generator Install
 -  Christmas Lights
 
